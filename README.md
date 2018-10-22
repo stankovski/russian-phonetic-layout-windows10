@@ -2,8 +2,9 @@
 
 This layout is based on the Russian phonetic layout on Mac OS. It works on Windows 7, 8, and 10. Note installation instructions for Windows 10.
 
-[Normal layout](https://github.com/stankovski/russian-phonetic-layout-windows10/layout/layout.png)
-[Layout with caps](https://github.com/stankovski/russian-phonetic-layout-windows10/layout/layout_caps.png)
+![Normal layout](https://raw.githubusercontent.com/stankovski/russian-phonetic-layout-windows10/master/layout/layout.png)
+
+![Layout with caps](https://raw.githubusercontent.com/stankovski/russian-phonetic-layout-windows10/master/layout/layout_caps.png)
 
 ## Install
 
